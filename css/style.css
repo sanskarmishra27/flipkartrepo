@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+:root {
+  --main-bg-color: #30D5C8;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: var(--main-bg-color);
+}
+
+nav {
+  display: flex;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 88px;
+  padding: 0 25px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 58px;
+}
+
+nav ul li {
+  list-style: none;
+  padding: 0 18px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+}
+
+nav ul li a:hover {
+  color: black;
+  font-weight: bold;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+
+}
+
+.search input {
+  height: 25px;
+  width: 493px;
+  border-radius: 3px;
+  margin: 0 16px 0 56px;
+  padding: 0 12px;
+}
+
+.slider {
+  display: flex;
+  justify-content: center;
+  width: 80vh;
+  margin: 25px auto;
+  
+}
+
+.cardmain {
+  display: inline-flex;
+  justify-content: center;
+  
+}
+header{
+  overflow: hidden;
+}
+main{
+  overflow: hidden;
+}
+footer{
+  overflow: hidden;
+}
+
+.card1 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+}
+
+.card2 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+ 
+}
+
+.card3 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+}
+
+.card4 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+  
+}
+
+.card5 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+  
+}
+.card6 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+  
+}
+.card7 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+  
+}
+.card8 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+  
+}
+.card9 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+  
+}
+.card10 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+  
+}
+.card11 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+
+}
+.card12 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+
+}
+.card13 {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+ 
+}
+.card14{
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+ 
+}
+.card15{
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 10px;
+  width: 19vh;
+  margin: 12vh;
+ 
+}
+
+
+.head {
+  height: auto;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.card-item {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: row;
+  margin: 0 15px;
+
+
+}
+
+.lines {
+  text-align: left;
+  margin: 12px 28px;
+}
+
+.card h2 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  min-height: 78vh;
+}
+
+
+footer {
+  height: 12vh;
+  background-color: var(--main-bg-color);
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
